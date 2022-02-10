@@ -1,5 +1,6 @@
 import random
 
+
 my_random_number = random.randrange(1,20)
 
 my_first_number = 42
